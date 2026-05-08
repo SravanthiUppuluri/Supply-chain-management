@@ -86,13 +86,13 @@ The project analyzes supply chain operations across multiple regions, countries,
 
 ## 🔹 SCM Dashboard  
 
-![SCM Dashboard](dashboard-preview-1.png)
+![SCM Dashboard](1.png)
 
 ---
 
 ## 🔹 Supply Chain Performance Dashboard  
 
-![Supply Chain Performance Dashboard](dashboard-preview-2.png)
+![Supply Chain Performance Dashboard](Screenshot 2026-05-08 121907.png)
 
 ---
 
